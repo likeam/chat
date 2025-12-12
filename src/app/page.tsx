@@ -36,7 +36,7 @@ const Home = () => {
             {">"}private_chat
           </h1>
           <p className=" text-zinc-500 text-sm">
-            private, self-destructing chat room.
+            private, self-destructing chat rooms.
           </p>
         </div>
         <div className=" border border-zinc-800 bg-zinc-900/50 p-6 backdrop-blur-md">
