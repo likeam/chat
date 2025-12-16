@@ -45,7 +45,7 @@ const Home = () => {
               <label className=" flex items-center text-zinc-500">
                 Your Identity
               </label>
-              <div className=" flex items-center gap-3">
+              <div className=" flex items-center gap-4">
                 <div className=" flex-1 bg-zinc-900 border border-zinc-800 p-3 text-sm text-zinc-500 font-mono">
                   {username}
                 </div>
