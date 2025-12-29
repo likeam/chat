@@ -39,7 +39,7 @@ const Home = () => {
             private, self-destructing chat rooms.
           </p>
         </div>
-        <div className=" border border-zinc-800 bg-zinc-900/50 p-6 backdrop-blur-md">
+        <div className=" border border-zinc-800 bg-zinc-900/50 p-7 backdrop-blur-md">
           <div className=" space-y-5">
             <div className=" space-y-2">
               <label className=" flex items-center text-zinc-600">
