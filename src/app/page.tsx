@@ -42,7 +42,7 @@ const Home = () => {
         <div className=" border border-zinc-800 bg-zinc-900/50 p-7 backdrop-blur-md">
           <div className=" space-y-6">
             <div className=" space-y-2">
-              <label className=" flex items-center text-zinc-600">
+              <label className=" flex items-center text-zinc-00">
                 Your Identity
               </label>
               <div className=" flex items-center gap-5">
