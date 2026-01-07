@@ -41,7 +41,7 @@ const Home = () => {
         </div>
         <div className=" border border-zinc-800 bg-zinc-900/50 p-7 backdrop-blur-md">
           <div className=" space-y-6">
-            <div className=" space-y-2">
+            <div className=" space-y-3">
               <label className=" flex items-center text-zinc-00">
                 Your Identity
               </label>
