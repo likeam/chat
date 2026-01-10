@@ -46,7 +46,7 @@ const Home = () => {
                 Your Identity
               </label>
               <div className=" flex items-center gap-5">
-                <div className=" flex-1 bg-zinc-800 border border-zinc-800 p-3 text-sm text-zinc-500 font-mono">
+                <div className=" flex-1 bg-zinc-700 border border-zinc-800 p-3 text-sm text-zinc-500 font-mono">
                   {username}
                 </div>
               </div>
